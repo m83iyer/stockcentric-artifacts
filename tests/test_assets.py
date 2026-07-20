@@ -10,7 +10,7 @@ from stockcentric_artifacts.validate import ArtifactValidationError, ROOT, valid
 
 def test_all_manifest_assets_are_intact() -> None:
     checked = validate()
-    assert len(checked) == 8
+    assert len(checked) == 12
     assert all(item["width"] == 1600 and item["height"] == 1600 for item in checked)
 
 

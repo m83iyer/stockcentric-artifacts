@@ -50,6 +50,30 @@
       "sha256": "a6ee5dc9006e4061318dc7e5bbc457bb6983743d89ed20abc16cb87f7943991c",
       "width": 1600,
       "height": 1600
+    },
+    {
+      "path": "artifacts/context-drift-ledger/v0.1.0/page-1.png",
+      "sha256": "1c7df8312de083816b86d8434d4f85565d0069dd228a7272159af22c4b6a36fb",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "path": "artifacts/context-drift-ledger/v0.1.0/page-2.png",
+      "sha256": "e0603bbce1f18f487571f42b8d95fceaf3eade749754f87408b310eaecffaba1",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "path": "artifacts/context-drift-ledger/v0.1.0/page-3.png",
+      "sha256": "8ca2a3a416fdaaba21183e52cd4cd7a99172516794a24362139ad5e407dbf92a",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "path": "artifacts/context-drift-ledger/v0.1.0/page-4.png",
+      "sha256": "2f0fba8d1c6a7ac48bf308606dd463c67d6e57e0e757f4a8dbce199460909c42",
+      "width": 1600,
+      "height": 1600
     }
   ]
 }
