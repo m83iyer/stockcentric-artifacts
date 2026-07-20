@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "design_system_version": "stockcentric-artifact-v1",
+  "immutability_rule": "Existing versioned asset paths and bytes are never modified or deleted.",
+  "assets": [
+    {
+      "path": "artifacts/ai-setup-doctor/v0.1.0/page-1.png",
+      "sha256": "0e964261926ddaf6123f5061d49d38775365161e72e50dc2a59d7333e6e8b0c6",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "path": "artifacts/ai-setup-doctor/v0.1.0/page-2.png",
+      "sha256": "89469faf597029d18a048ce9fb612292bf708cd20095ac4b320ae8fb92434a94",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "path": "artifacts/ai-setup-doctor/v0.1.0/page-3.png",
+      "sha256": "ae809152b074d318dbe2c14d090d33d17f5600e728ef742527827a2dab7203cd",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "path": "artifacts/ai-setup-doctor/v0.1.0/page-4.png",
+      "sha256": "47839d1c07777a68236654548110753d2768c9a4e7198dcd6c71562aa48de1e9",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "path": "artifacts/technical-strategy-evidence-lab/v0.1.1/page-1.png",
+      "sha256": "3bff1f7070ebb085cb4a6d4a0471442e52a89a74f5c6431007462fd347a3f683",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "path": "artifacts/technical-strategy-evidence-lab/v0.1.1/page-2.png",
+      "sha256": "4d95889772b5f6623e1a641fa62db1ab2c2a977c3fa9cd0003c69125a689be7c",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "path": "artifacts/technical-strategy-evidence-lab/v0.1.1/page-3.png",
+      "sha256": "cbde31ff662e7ec61d94831bcae2a1aa6000dada7e8118e8c25817bf3b00bc83",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "path": "artifacts/technical-strategy-evidence-lab/v0.1.1/page-4.png",
+      "sha256": "a6ee5dc9006e4061318dc7e5bbc457bb6983743d89ed20abc16cb87f7943991c",
+      "width": 1600,
+      "height": 1600
+    }
+  ]
+}
