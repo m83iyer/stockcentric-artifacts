@@ -128,6 +128,12 @@
       "sha256": "ec3b0157174fc2d088d2fc496ae5510aafe052907f7eae3319e3f96b10f2b0e0",
       "width": 1600,
       "height": 2000
+    },
+    {
+      "path": "artifacts/tool-call-argument-contract-harness/v0.1.0/page-1.png",
+      "sha256": "2f334f29155be3c86869b8e83fe496663b455aa54ff9f7b5f0e07d6e4ac3fde5",
+      "width": 1600,
+      "height": 1600
     }
   ]
 }
