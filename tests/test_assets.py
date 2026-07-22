@@ -10,8 +10,10 @@ from stockcentric_artifacts.validate import ArtifactValidationError, ROOT, valid
 
 def test_all_manifest_assets_are_intact() -> None:
     checked = validate()
-    assert len(checked) == 12
-    assert all(item["width"] == 1600 and item["height"] == 1600 for item in checked)
+    manifest = json.loads((ROOT / "manifest.json").read_text())
+    assert len(checked) == len(manifest["assets"])
+    assert len(checked) >= 12
+    assert all(item["width"] == 1600 and item["height"] in {1600, 2000} for item in checked)
 
 
 def test_changed_asset_is_rejected(tmp_path: Path) -> None:

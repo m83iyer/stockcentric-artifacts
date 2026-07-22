@@ -74,6 +74,54 @@
       "sha256": "2f0fba8d1c6a7ac48bf308606dd463c67d6e57e0e757f4a8dbce199460909c42",
       "width": 1600,
       "height": 1600
+    },
+    {
+      "path": "artifacts/technical-analysis-brief/v0.1.0/page-1.png",
+      "sha256": "5c2937bab16d35549199f733a3638c9ee5873a45a7fc236f1e0381c45a7d582f",
+      "width": 1600,
+      "height": 2000
+    },
+    {
+      "path": "artifacts/technical-analysis-brief/v0.1.0/page-2.png",
+      "sha256": "32968109c0bd921bb5d8376d648598d7cefba787100aa8dcd8ac059c541fd987",
+      "width": 1600,
+      "height": 2000
+    },
+    {
+      "path": "artifacts/technical-analysis-brief/v0.1.0/page-3.png",
+      "sha256": "cf26d86f6f07541bf50bd198fcaf70400b1591bb91b65692e89584d2d22469d0",
+      "width": 1600,
+      "height": 2000
+    },
+    {
+      "path": "artifacts/technical-analysis-brief/v0.1.0/page-4.png",
+      "sha256": "c10e233b44b3125db8651da8a99fdf8531758c6a598c3b4adabe14703e09416a",
+      "width": 1600,
+      "height": 2000
+    },
+    {
+      "path": "artifacts/fundamental-analysis-brief/v0.1.0/page-1.png",
+      "sha256": "da66e5e45879aafb3c1521c8b435ea2d2cb5dde335a7159e08b1c07093e349d5",
+      "width": 1600,
+      "height": 2000
+    },
+    {
+      "path": "artifacts/fundamental-analysis-brief/v0.1.0/page-2.png",
+      "sha256": "0223cfc6bd0eb3e091d669230da05f0f0bb12a65bd74b0826b9f29eb741671cb",
+      "width": 1600,
+      "height": 2000
+    },
+    {
+      "path": "artifacts/fundamental-analysis-brief/v0.1.0/page-3.png",
+      "sha256": "06f30e2511249a65c167f3ea1868abf4b1dbfb2ec0df223effdb660ae90707eb",
+      "width": 1600,
+      "height": 2000
+    },
+    {
+      "path": "artifacts/fundamental-analysis-brief/v0.1.0/page-4.png",
+      "sha256": "eeefbebc0537f50ef57712849e53623d88f4057a76e8c4f6177137d353d1219b",
+      "width": 1600,
+      "height": 2000
     }
   ]
 }
