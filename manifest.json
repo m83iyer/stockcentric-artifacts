@@ -122,6 +122,12 @@
       "sha256": "eeefbebc0537f50ef57712849e53623d88f4057a76e8c4f6177137d353d1219b",
       "width": 1600,
       "height": 2000
+    },
+    {
+      "path": "artifacts/fundamental-analysis-brief/v0.1.1/page-4.png",
+      "sha256": "ec3b0157174fc2d088d2fc496ae5510aafe052907f7eae3319e3f96b10f2b0e0",
+      "width": 1600,
+      "height": 2000
     }
   ]
 }
