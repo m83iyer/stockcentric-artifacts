@@ -140,6 +140,12 @@
       "sha256": "6b3ab470ac8520dcde8b4a9641e94b4621c6f420d90c7738da61c7946f827a73",
       "width": 1600,
       "height": 1600
+    },
+    {
+      "path": "artifacts/excel-defined-name-collision-receipt/v0.1.0/page-1.png",
+      "sha256": "e2260e5c7d045e717e0ca80ed2388ad3fd312c155c2f133d61e58e773a78c5f1",
+      "width": 1600,
+      "height": 1600
     }
   ]
 }
