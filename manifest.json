@@ -134,6 +134,12 @@
       "sha256": "2f334f29155be3c86869b8e83fe496663b455aa54ff9f7b5f0e07d6e4ac3fde5",
       "width": 1600,
       "height": 1600
+    },
+    {
+      "path": "artifacts/parquet-reader-compatibility-receipt/v0.1.0/page-1.png",
+      "sha256": "6b3ab470ac8520dcde8b4a9641e94b4621c6f420d90c7738da61c7946f827a73",
+      "width": 1600,
+      "height": 1600
     }
   ]
 }
