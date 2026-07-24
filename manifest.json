@@ -152,6 +152,12 @@
       "sha256": "d725a8762545adeaa49fa610c7bc44372bbf141e3ac59a70df088a6d2949bdae",
       "width": 1600,
       "height": 1600
+    },
+    {
+      "path": "artifacts/office-scripts-transfer-budget-receipt/v0.1.1/page-1.png",
+      "sha256": "419f425557a6151667bfd38dbca7d17a778922c0b78284cdd565da77663827f9",
+      "width": 1600,
+      "height": 1600
     }
   ]
 }
