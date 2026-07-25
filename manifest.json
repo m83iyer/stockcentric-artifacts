@@ -158,6 +158,12 @@
       "sha256": "419f425557a6151667bfd38dbca7d17a778922c0b78284cdd565da77663827f9",
       "width": 1600,
       "height": 1600
+    },
+    {
+      "path": "artifacts/pdf-table-extraction-fidelity-receipt/v0.1.3/page-1.png",
+      "sha256": "f085c360638c4fd50710161a0da35e95e8a8d62cf940aae1fb3811facca37ce8",
+      "width": 1600,
+      "height": 1600
     }
   ]
 }
