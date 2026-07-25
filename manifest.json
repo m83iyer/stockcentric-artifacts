@@ -164,6 +164,12 @@
       "sha256": "f085c360638c4fd50710161a0da35e95e8a8d62cf940aae1fb3811facca37ce8",
       "width": 1600,
       "height": 1600
+    },
+    {
+      "path": "artifacts/power-query-dataflows-readiness-receipt/v0.1.1/page-1.png",
+      "sha256": "5ca9fe5a73244028e576f070a0a734b4942cc8ac58247f11526bce0947c297a0",
+      "width": 1600,
+      "height": 1600
     }
   ]
 }
