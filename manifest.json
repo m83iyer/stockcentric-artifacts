@@ -170,6 +170,12 @@
       "sha256": "5ca9fe5a73244028e576f070a0a734b4942cc8ac58247f11526bce0947c297a0",
       "width": 1600,
       "height": 1600
+    },
+    {
+      "path": "artifacts/structured-output-route-capability-receipt/v0.1.0/page-1.png",
+      "sha256": "5dec473ab1dcf2b22e822a0d2fd094c4a80b522dff848106ba3be966b5bc46ae",
+      "width": 1600,
+      "height": 1600
     }
   ]
 }
