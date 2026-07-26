@@ -176,6 +176,12 @@
       "sha256": "5dec473ab1dcf2b22e822a0d2fd094c4a80b522dff848106ba3be966b5bc46ae",
       "width": 1600,
       "height": 1600
+    },
+    {
+      "path": "artifacts/background-response-failure-taxonomy-receipt/v0.1.0/page-1.png",
+      "sha256": "aeedd59fc6f70b384ea9c9b299c082a815b3154fb80323fbcb7e2e372a62eba4",
+      "width": 1600,
+      "height": 1600
     }
   ]
 }
