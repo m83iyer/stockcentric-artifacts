@@ -182,6 +182,12 @@
       "sha256": "aeedd59fc6f70b384ea9c9b299c082a815b3154fb80323fbcb7e2e372a62eba4",
       "width": 1600,
       "height": 1600
+    },
+    {
+      "path": "artifacts/power-bi-legacy-cutover-receipt/v0.1.0/page-1.png",
+      "sha256": "140d102f12d0994d5445e49017fe81922e9bf427647b237a7aad7634b52dd5e8",
+      "width": 1600,
+      "height": 1600
     }
   ]
 }
