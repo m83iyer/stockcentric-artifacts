@@ -188,6 +188,12 @@
       "sha256": "140d102f12d0994d5445e49017fe81922e9bf427647b237a7aad7634b52dd5e8",
       "width": 1600,
       "height": 1600
+    },
+    {
+      "path": "artifacts/responses-sdk-terminal-snapshot-upgrade-receipt/v0.1.0/page-1.png",
+      "sha256": "c0089927daefcaf48052702c9e7dd96c370bac74ae0bb551a12e8b054d2c4c8c",
+      "width": 1600,
+      "height": 1600
     }
   ]
 }
