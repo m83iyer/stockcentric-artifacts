@@ -194,6 +194,12 @@
       "sha256": "c0089927daefcaf48052702c9e7dd96c370bac74ae0bb551a12e8b054d2c4c8c",
       "width": 1600,
       "height": 1600
+    },
+    {
+      "path": "artifacts/self-hosted-runner-execution-eligibility-receipt/v0.1.0/page-1.png",
+      "sha256": "d49a6069576e8de0b195f4d9c474080e1e46918fa99ad869e44068452e789bf0",
+      "width": 1600,
+      "height": 1600
     }
   ]
 }
