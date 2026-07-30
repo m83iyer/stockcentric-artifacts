@@ -18,3 +18,4 @@ Assets are explanatory outputs, not investment recommendations. Investing-relate
 - `ai-setup-doctor/v0.1.0`: four pages for the local setup-health tool.
 - `technical-strategy-evidence-lab/v0.1.1`: four pages for the synthetic strategy-survival methodology receipt.
 - `context-drift-ledger/v0.1.0`: four pages for the local handoff-freshness receipt.
+- `fresh-investing-artifacts/v0.1.0`: one current Microsoft fundamental dashboard and one current TCS technical refusal brief, each visibly bounded as research rather than a recommendation.

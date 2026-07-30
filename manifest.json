@@ -200,6 +200,18 @@
       "sha256": "d49a6069576e8de0b195f4d9c474080e1e46918fa99ad869e44068452e789bf0",
       "width": 1600,
       "height": 1600
+    },
+    {
+      "path": "artifacts/fresh-investing-artifacts/v0.1.0/msft-fundamental.png",
+      "sha256": "a79ded572fb738ec2fe25e3857166dddae5f0be4ad0ac7cccb2584b685fc0131",
+      "width": 1600,
+      "height": 2000
+    },
+    {
+      "path": "artifacts/fresh-investing-artifacts/v0.1.0/tcs-technical.png",
+      "sha256": "e32c5d11b44171106bba5788ffecb642bb774be3530e3ae8e7db74e051162233",
+      "width": 1600,
+      "height": 2000
     }
   ]
 }
